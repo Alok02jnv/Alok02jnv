@@ -90,8 +90,9 @@ I enjoy building models from scratch, experimenting with architectures, and appl
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *[Add your link here]*
+
 - 💻 GitHub: *You’re already here 😄*
+- Email:- m24met001@iitj.ac.in
 
 ---
 
